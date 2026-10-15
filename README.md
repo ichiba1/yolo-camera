@@ -31,3 +31,7 @@ cd ~/yolo-camera
 ```bash
 ssh -L 8000:localhost:8000 <ユーザー名>@<ラズパイのアドレス>
 ```
+
+## ライセンス
+
+[AGPL-3.0](LICENSE)（使用している [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) に合わせています）

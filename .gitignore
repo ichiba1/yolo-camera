@@ -1,0 +1,4 @@
+# モデルは README の手順で各自ダウンロード・変換する
+*.pt
+*_ncnn_model/
+__pycache__/
